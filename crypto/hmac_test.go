@@ -5,7 +5,7 @@ package crypto
 // 	"strings"
 // 	"testing"
 
-// 	"github.com/mfduvall/jose/jws"
+// 	"github.com/SermoDigital/jose/jws"
 // )
 
 // var hmacTestData = []struct {

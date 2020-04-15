@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/mfduvall/jose/crypto"
+	"github.com/SermoDigital/jose/crypto"
 )
 
 func Error(t *testing.T, want, got interface{}) {

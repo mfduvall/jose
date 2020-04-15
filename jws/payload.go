@@ -3,7 +3,7 @@ package jws
 import (
 	"encoding/json"
 
-	"github.com/mfduvall/jose"
+	"github.com/SermoDigital/jose"
 )
 
 // payload represents the payload of a JWS.

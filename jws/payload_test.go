@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/mfduvall/jose"
+	"github.com/SermoDigital/jose"
 )
 
 func TestPayloadMarshal(t *testing.T) {
