@@ -3,7 +3,7 @@ package crypto
 import (
 	"encoding/json"
 
-	"github.com/SermoDigital/jose"
+	"github.com/mfduvall/jose"
 )
 
 // Signature is a JWS signature.
