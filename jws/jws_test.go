@@ -8,7 +8,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/SermoDigital/jose/crypto"
+	"github.com/mfduvall/jose/crypto"
 )
 
 type easy []byte
